@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-articles"
+    }
+  },
+  "defaultProject": "angular-articles",
+  "cli": {
+    "analytics": false
+  }
 }
